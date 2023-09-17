@@ -44,7 +44,7 @@ Start by segmenting your email contacts. If you group your audience into smaller
 *Result:* By Analyzing we get the feedback left is negative or positive with this method local restaurant can work on negative feedback that he got on which he can work later to improve it.
 
 ## Contacts
-- LinkedIn:[@ShrutiSihare] (https://www.linkedin.com/in/shruti-sihare-9b8a1a211/)
+- LinkedIn:[@SHRUTI SIHARE] (https://www.linkedin.com/in/shruti-sihare-9b8a1a211/)
 - Email:  shrutisihare28@gmail.com 
 
 
