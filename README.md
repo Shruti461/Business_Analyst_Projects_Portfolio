@@ -14,7 +14,7 @@ Thank you for your time, I look forward to hearing from you soon
 - [About](https://github.com/Shruti461/Business_Analyst_Projects_Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Shruti461/Business_Analyst_Projects_Portfolio/blob/main/README.md#portfolio-projects)
 - [Contact](https://github.com/Shruti461/Business_Analyst_Projects_Portfolio/blob/main/README.md#contacts)
-- 
+ 
 ## Portfolio Projects
 In this section I will list business analytics projects briefly describing the technology stack used to solve cases.
 
@@ -44,7 +44,7 @@ Start by segmenting your email contacts. If you group your audience into smaller
 *Result:* By Analyzing we get the feedback left is negative or positive with this method local restaurant can work on negative feedback that he got on which he can work later to improve it.
 
 ## Contacts
-- LinkedIn: linkedin.com/in/shruti-sihare-9b8a1a211
+- LinkedIn:[ShrutiSihare] (https://www.linkedin.com/in/shruti-sihare-9b8a1a211/)
 - Email:  shrutisihare28@gmail.com 
 
 
